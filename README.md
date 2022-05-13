@@ -1,4 +1,4 @@
-# SushiCat
+# Sushi Cat Bots
 Welcome to the Repository of Sushi Cat Dev Team's repository for the current discord bot project: Kanji Game Bot
 
 ## Purpose
